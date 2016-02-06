@@ -1,0 +1,32 @@
+[
+  {
+    "panthers": 100,
+    "start_time": "Sat Feb 06 12:32:25 2016",
+    "broncos": 70,
+    "end_time": "Sat Feb 06 12:33:20 2016"
+  },
+  {
+    "panthers": 100,
+    "start_time": "Sat Feb 06 12:43:20 2016",
+    "broncos": 73,
+    "end_time": "Sat Feb 06 12:44:17 2016"
+  },
+  {
+    "panthers": 100,
+    "start_time": "Sat Feb 06 12:54:17 2016",
+    "broncos": 79,
+    "end_time": "Sat Feb 06 12:55:06 2016"
+  },
+  {
+    "panthers": 100,
+    "start_time": "Sat Feb 06 13:05:06 2016",
+    "broncos": 35,
+    "end_time": "Sat Feb 06 13:05:44 2016"
+  },
+  {
+    "panthers": 100,
+    "start_time": "Sat Feb 06 13:15:44 2016",
+    "broncos": 71, 
+    "end_time": "Sat Feb 06 13:16:32 2016"
+  }
+]
