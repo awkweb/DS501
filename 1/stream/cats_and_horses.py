@@ -45,7 +45,7 @@ for counter in range(1, NUMBER_OF_COLLECTIONS + 1):
                     panthers_counter += 1
                     print 'Panthers: %s' % panthers_counter
                 else:
-                    print 'continue', tweet['text']
+                    print 'continue'
                     continue
         count_dict['broncos'] = broncos_counter
         count_dict['panthers'] = panthers_counter
